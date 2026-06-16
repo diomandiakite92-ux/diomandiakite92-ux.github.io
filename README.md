@@ -1,7 +1,7 @@
 Diomand Diakite
 Portfolio UX / Front-end
 
-Bienvenue sur mon portfolio. Ce dépôt contient le code source de mon site, deploye via GitHub Pages et automatisé par GitHub Actions.
+Bienvenue sur mon portfolio. Ce dépôt contient le code source du Portfolio, deployé via GitHub Pages et automatisé par GitHub Actions.
 
 Liens utiles
 
