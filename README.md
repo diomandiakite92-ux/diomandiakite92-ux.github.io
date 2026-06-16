@@ -1,15 +1,12 @@
 Diomand Diakite
 Portfolio UX / Front-end
 
-Bienvenue sur mon portfolio. Ce depot contient le code source de mon site, deploye via GitHub Pages et automatise par GitHub Actions.
-
-Apercu
-![Apercu du portfolio](Images/readme-img.png)
+Bienvenue sur mon portfolio. Ce dépôt contient le code source de mon site, deploye via GitHub Pages et automatisé par GitHub Actions.
 
 Liens utiles
 
 - Site en ligne: https://diomandiakite92-ux.github.io
-- Code source: ce depot
+- Code source: ce dépôt
 
 Stack
 
@@ -18,12 +15,12 @@ Stack
 - Bootstrap / React-Bootstrap
 - GitHub Pages
 
-Fonctionnalites
+Fonctionnalités
 
-- Presentation personnelle
-- Projets et etudes de cas
+- Présentation personnelle
+- Passion
+- Projets
 - CV / PDF
-- Contact
 
 Structure
 
@@ -31,7 +28,7 @@ Structure
 - `public` : fichiers statiques
 - `Images` : visuels pour le README
 
-Demarrer en local
+Démarrer en local
 
 ```bash
 npm install
@@ -54,7 +51,3 @@ Me contacter
 
 - Email: diomandiakite92@gmail.com
 - LinkedIn: https://www.linkedin.com/in/diomandiakite/
-
----
-
-Si vous voulez que je personnalise davantage (bio, projets, liens reels, techno precises), dites-moi ce que vous voulez mettre et je l'adapte.
